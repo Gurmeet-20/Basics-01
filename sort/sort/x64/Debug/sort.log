@@ -1,0 +1,3 @@
+﻿  name.cpp
+D:\Sem 4\CMPT\Basics\sort\sort\name.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  sort.vcxproj -> D:\Sem 4\CMPT\Basics\sort\x64\Debug\sort.exe

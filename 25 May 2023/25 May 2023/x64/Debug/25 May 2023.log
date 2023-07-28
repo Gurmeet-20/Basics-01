@@ -1,0 +1,5 @@
+﻿  Lab2_mySolution.cpp
+  practice.cpp
+  Generating Code...
+practice.obj : error LNK2005: "public: void __cdecl Rational::reduce(void)" (?reduce@Rational@@QEAAXXZ) already defined in Lab2_mySolution.obj
+D:\Sem 4\CMPT\Basics\25 May 2023\x64\Debug\25 May 2023.exe : fatal error LNK1169: one or more multiply defined symbols found

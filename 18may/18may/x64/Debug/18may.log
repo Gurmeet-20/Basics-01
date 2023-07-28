@@ -1,0 +1,16 @@
+﻿  18_02.cpp
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(27,12): error C2600: 'MovieData::MovieData': cannot define a compiler-generated special member function (must be declared in the class first)
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(33,12): error C2511: 'MovieData::MovieData(std::string,std::string,int,double)': overloaded member function not found in 'MovieData'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(5,7): message : see declaration of 'MovieData'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(34,2): error C2597: illegal reference to non-static member 'MovieData::title'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(6,9): message : see declaration of 'MovieData::title'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(35,2): error C2597: illegal reference to non-static member 'MovieData::director'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(7,9): message : see declaration of 'MovieData::director'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(36,2): error C2597: illegal reference to non-static member 'MovieData::year'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(8,6): message : see declaration of 'MovieData::year'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(37,2): error C2597: illegal reference to non-static member 'MovieData::time'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(9,9): message : see declaration of 'MovieData::time'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(102,12): error C2264: 'MovieData::MovieData': error in function definition or declaration; function not called
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(102,26): error C2264: 'MovieData::MovieData': error in function definition or declaration; function not called
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(102,25): error C2146: syntax error: missing ';' before identifier 'a'
+D:\Sem 4\CMPT\Basics\18may\18may\18_02.cpp(102,28): error C3861: 'b': identifier not found

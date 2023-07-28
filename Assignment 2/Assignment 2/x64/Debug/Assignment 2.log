@@ -1,0 +1,5 @@
+﻿  assignment2.cpp
+D:\Sem 4\CMPT\Basics\Assignment 2\Assignment 2\assignment2.cpp(221,14): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sem 4\CMPT\Basics\Assignment 2\Assignment 2\assignment2.cpp(225,16): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sem 4\CMPT\Basics\Assignment 2\Assignment 2\assignment2.cpp(229,16): warning C4804: '<': unsafe use of type 'bool' in operation
+  Assignment 2.vcxproj -> D:\Sem 4\CMPT\Basics\Assignment 2\x64\Debug\Assignment 2.exe

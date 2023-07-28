@@ -1,0 +1,2 @@
+﻿  practice 1.cpp
+D:\Sem 4\CMPT\Basics\Project1\Project1\practice 1.cpp(22,12): error C2600: 'Rectangle::Rectangle': cannot define a compiler-generated special member function (must be declared in the class first)

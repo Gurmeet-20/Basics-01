@@ -1,0 +1,3 @@
+﻿  Lab .cpp
+D:\Sem 4\CMPT\Basics\July 25\July 25\Lab .cpp(45,11): warning C4804: '>': unsafe use of type 'bool' in operation
+  July 25.vcxproj -> D:\Sem 4\CMPT\Basics\July 25\x64\Debug\July 25.exe
